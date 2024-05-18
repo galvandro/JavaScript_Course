@@ -1,0 +1,28 @@
+h1 {
+    font-family: monospace;
+    text-align: center;
+    color: #18b855;
+}
+
+h2 {
+    font-family: monospace;
+    color: #18b855;
+}
+
+p {
+    font-family: monospace;
+    text-align: justify;
+}
+
+.content {
+    background-color: #fdf0df;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 10px;
+    box-shadow: 5px 5px ;
+}
+
+body {
+    background-color: #8f0f8f;
+    font-family: monospace;
+}
