@@ -12,7 +12,6 @@
 
  - Aprofundar meu conhecimento em Java Script.
  - Desenvolver habilidades de resolução de problemas.
- - Criar um portfólio de projetos práticos em Java Script.
  - Conectar-me com outros entusiastas da linguagem.
 ---
  **Público-alvo:**
